@@ -12,7 +12,7 @@ This portfolio is a way for me to document my progress, showcase my projects, an
 - **Contact Information**: Information on how to get in touch with me, including email and links to my profiles.
 
 ## Technologies Used
-- **HTML5** and **CSS3** for building the structure and styling the website.
+- **HTML5** and **CSS** for building the structure and styling the website.
 - **JavaScript** for adding interactivity on the front end.
 - **Node.js** for server-side scripting.
 - **Express.js** to create the server and manage routing.
